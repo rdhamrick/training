@@ -149,3 +149,4 @@ Sooty is now proudly supported by [Tines.io](https://tines.io?utm_source=github&
  - [Paralax](https://github.com/paralax) for fixing typo's in the readme.
 
  ![](readmeimages/vt_hashchecker.gif)
+# training
