@@ -1,7 +1,7 @@
-VT_API_KEY: 'Enter VirusTotal API Key Here'
-AB_API_KEY: 'Enter AbuseIPDB API Key Here'
-URLSCAN_IO_KEY: 'Enter urlscan.io API Key Here'
-HIBP_API_KEY: 'Enter HaveIBeenPwned API Key Here'
+VT_API_KEY: '39b452a618f5d1365015bba486824e0709a7b788e100aa9794076f86f51c1435'
+AB_API_KEY: '37fc7b16b0324345d2ba30881ffb684d66844ab623d536dff10172bb1184313d6648541b36e82a38'
+URLSCAN_IO_KEY: 'fbcd0a28-ef96-4eb9-89c9-a86ef6b2ab15'
+HIBP_API_KEY: 'dafedd50288c467baa4c7136804039cb'
 
 phishtank:
   appname: 'Enter Phishtank Application Name Here'
